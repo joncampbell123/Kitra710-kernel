@@ -10,7 +10,6 @@ This is the branch for kernel 4.1, for 4.4 check the n4.4 branch.
 ---
 ## 2. Build guide
 ### 2.1 Install cross compiler
-+ For artik710> You'll need an arm64 cross compiler
 ```
 sudo apt-get install gcc-aarch64-linux-gnu
 ```
